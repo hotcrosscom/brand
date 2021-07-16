@@ -6,7 +6,7 @@
 - TGS
 - PNG
 - GIF (palette): [Canonical](1.1.0/Hot%20Cross%20Stickers%20V1.1.0.gif)
-- GIF (large)
+- GIF (large): [Canonical](1.1.0/gif/large/)
 - GIF (small)
 
 ## [1.0.0](1.0.0/)
