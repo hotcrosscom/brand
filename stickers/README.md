@@ -1,5 +1,14 @@
 # Hot Cross Stickers
 
+## 1.1.0
+
+- Telegram Stickers: [Install](https://t.me/addstickers/HotCross)
+- TGS
+- PNG
+- GIF (palette)
+- GIF (large)
+- GIF (small)
+
 ## [1.0.0](1.0.0/)
 
 - Telegram Stickers: [Install](https://t.me/addstickers/HotCross)
